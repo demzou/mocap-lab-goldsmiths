@@ -1,4 +1,4 @@
-# Welcome to the Mocap Lab repo of Goldsmiths University! 
+# Welcome to the Mocap Lab at Goldsmiths University! 
 
 This is the central resources to know how to use the Mocap Lab at Goldsmiths university. This documentation is previded in complement of what is being taught in the Motion Capture and Digital Embodiment module.
 
