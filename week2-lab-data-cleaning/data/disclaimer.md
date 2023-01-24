@@ -1,1 +1,0 @@
-Those captures have been realised in the context of the week 1 lab of the motion capture module at Goldsmiths University. Those recordings are only to be used for educational purposes and can't be exploited for any other applications.
